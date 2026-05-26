@@ -61,7 +61,7 @@ Iteração 3: 8532 - 2358 = 6174
 ```text
 📁 constante_de_kaprekar
 │── kaprekar.py
-│── fluxograma.png
+│── fluxograma_kaprekar.png
 │── README.md
 ```
 
