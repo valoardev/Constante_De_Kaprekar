@@ -68,7 +68,7 @@ Iteração 3: 8532 - 2358 = 6174
 ### Arquivos
 
 - **kaprekar.py** → Código principal do programa;
-- **fluxograma.png** → Fluxograma explicando a lógica de funcionamento;
+- **fluxograma_kaprekar.png** → Fluxograma explicando a lógica de funcionamento;
 - **README.md** → Documentação do projeto.
 
 ## Restrições do Projeto
